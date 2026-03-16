@@ -26,9 +26,10 @@
 | 02 | WiFi + blocking WebServer         | ✅ Done  | WiFi.h, WebServer.h                    |
 | 03 | Live MJPEG camera stream          | ✅ Done  | esp_camera.h, esp_http_server.h        |
 | 04 | ESPAsyncWebServer + WebSocket     | ✅ Done  | ESPAsyncWebServer, AsyncTCP, ArduinoJson |
-| 05 | Stream + WebSocket combined       | ⬜ Todo  | —                                      |
+| 05 | Stream + WebSocket combined       | ✅ Done  | ESPAsyncWebServer, esp_camera.h |
 | 06 | L298N motor control               | ⬜ Todo  | —                                      |
 | 07 | Full surveillance bot             | ⬜ Todo  | —                                      |
+
 
 ## Repo Structure
 ```
